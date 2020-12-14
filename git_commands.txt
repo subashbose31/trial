@@ -1,3 +1,7 @@
 git status -- > to check the status of the files in the folder
 git add <file name>  to add the files.(staging)   (git add*  add all modified files) 
 git commit -m “message”  commit the changes the repo(Master or branch)
+git diff  shows the difference between old and new files.
+Git log-> gives history of the commits.
+	git remote add origin https://github.com/subashbose31/trial.git
+
